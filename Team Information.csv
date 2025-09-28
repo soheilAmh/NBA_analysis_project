@@ -1,0 +1,31 @@
+﻿Team_ID,Team,Team_Full_Name,Location,Seasons,Years_Active,Win,Loss,Playoff,Championships
+1,LAC,Los Angeles Clippers,"Los Angeles, California",56,1970-71 to 2025-26,1893,2549,19,0
+2,SAC,Sacramento Kings,"Sacramento, California",78,1948-49 to 2025-26,2788,3299,30,1
+3,NOP,New Orleans Pelicans,"New Orleans, Louisiana",24,2002-03 to 2025-26,852,998,9,0
+4,LAL,Los Angeles Lakers,"Los Angeles, California",78,1948-49 to 2025-26,3600,2486,65,17
+5,TOR,Toronto Raptors,"Toronto, Canada",31,1995-96 to 2025-26,1126,1266,13,1
+6,MIN,Minnesota Timberwolves,"Minneapolis, Minnesota",37,1989-90 to 2025-26,1196,1680,13,0
+7,OKC,Oklahoma City Thunder,"Oklahoma City, Oklahoma",59,1967-68 to 2025-26,2538,2150,34,2
+8,ATL,Atlanta Hawks,"Atlanta, Georgia",77,1949-50 to 2025-26,2967,3052,49,1
+9,HOU,Houston Rockets,"Houston, Texas",59,1967-68 to 2025-26,2421,2267,35,2
+10,CHO,Charlotte Bobcats,"Charlotte, North Carolina",36,1988-89 to 2025-26,1193,1602,10,0
+11,DAL,Dallas Mavericks,"Dallas, Texas",46,1980-81 to 2025-26,1836,1789,25,1
+12,NYK,New York Knicks,"New York, New York",80,1946-47 to 2025-26,3025,3162,46,2
+13,GSW,Golden State Warriors,"San Francisco, California",80,1946-47 to 2025-26,3017,3168,38,7
+14,IND,Indiana Pacers,"Indianapolis, Indiana",59,1967-68 to 2025-26,2407,2287,38,3
+15,ORL,Orlando Magic,"Orlando, Florida",37,1989-90 to 2025-26,1356,1529,18,0
+16,PHO,Phoenix Suns,"Phoenix, Arizona",58,1968-69 to 2025-26,2465,2142,33,0
+17,DET,Detroit Pistons,"Detroit, Michigan",78,1948-49 to 2025-26,2871,3209,43,3
+18,MIL,Milwaukee Bucks,"Milwaukee, Wisconsin",58,1968-69 to 2025-26,2437,2170,37,2
+19,CLE,Cleveland Cavaliers,"Cleveland, Ohio",56,1970-71 to 2025-26,2096,2339,25,1
+20,WAS,Washington Wizards,"Washington, District of Columbia",65,1961-62 to 2025-26,2290,2879,30,1
+21,BRK,Brooklyn Nets,"Brooklyn, New York",59,1967-68 to 2025-26,2054,2640,31,2
+22,UTA,Utah Jazz,"Salt Lake City, Utah",52,1974-75 to 2025-26,2194,1920,31,0
+23,SAS,San Antonio Spurs,"San Antonio, Texas",59,1967-68 to 2025-26,2717,1976,47,5
+24,POR,Portland Trail Blazers,"Portland, Oregon",56,1970-71 to 2025-26,2328,2116,37,1
+25,MEM,Memphis Grizzlies,"Memphis, Tennessee",31,1995-96 to 2025-26,1046,1347,14,0
+26,DEN,Denver Nuggets,"Denver, Colorado",59,1967-68 to 2025-26,2417,2278,40,1
+27,PHI,Philadelphia 76ers,"Philadelphia, Pennsylvania",77,1949-50 to 2025-26,3125,2898,54,3
+28,BOS,Boston Celtics,"Boston, Massachusetts",80,1946-47 to 2025-26,3695,2501,62,18
+29,CHI,Chicago Bulls,"Chicago, Illinois",60,1966-67 to 2025-26,2422,2340,36,6
+30,MIA,Miami Heat,"Miami, Florida",38,1988-89 to 2025-26,1558,1409,26,3

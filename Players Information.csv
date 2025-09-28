@@ -1,0 +1,407 @@
+Player_ID,Player_Name,Position,Shoots,Experience,Height,Weight,Birth_date,Hometown,Country_State
+1,Markieff Morris,Power Forward    ,Right,14,"6'9""",245,"September 2,
+ 1989",Philadelphia,Pennsylvania
+2,Jack White,Small Forward    ,Right,2,"6'7""",225,"August 5,
+ 1997",Traralgon,Australia
+3,Bones Hyland,Point Guard and Shooting Guard    ,Right,4,"6'2""",173,"September 14,
+ 2000",Wilmington,Delaware
+4,Bobby Portis,Power Forward and Center    ,Right,10,"6'10""",250,"February 10,
+ 1995",Little,Arkansas
+5,Shai Gilgeous-Alexander,Point Guard and Shooting Guard    ,Right,7,"6'6""",200,"July 12,
+ 1998",Toronto,Ontario
+6,Khris Middleton,Small Forward and Shooting Guard    ,Right,13,"6'7""",222,"August 12,
+ 1991",Charleston,South Carolina
+7,JD Davison,Shooting Guard and Point Guard    ,Right,3,"6'1""",195,"October 3,
+ 2002",Montgomery,Alabama
+8,Jalen Williams,Shooting Guard and Power Forward    ,Right,3,"6'6""",220,"April 14,
+ 2001",Denver,Colorado
+9,Axel Toupane,Small Forward    ,Right,3,"6'7""",197,"July 23,
+ 1992",Mulhouse,France
+10,Karl-Anthony Towns,Center and Power Forward    ,Right,10,"7'0""",248,"November 15,
+ 1995",Edison,New Jersey
+11,Jeff Teague,Point Guard    ,Right,12,"6'3""",195,"June 10,
+ 1988",Indianapolis,Indiana
+12,Neemias Queta,Center    ,Right,4,"7'0""",245,"July 13,
+ 1999",Lisbon,Portugal
+13,Russell Westbrook,Point Guard    ,Right,17,"6'4""",200,"November 12,
+ 1988",Long,California
+14,Kristaps PorziÅÄ£is,Center and Power Forward    ,Right,9,"7'2""",240,"August 2,
+ 1995",Liepaja,Latvia
+15,Zion Williamson,Power Forward    ,Left,5,"6'6""",284,"July 6,
+ 2000",Salisbury,North Carolina
+16,Dalano Banton,Point Guard    ,Right,4,"6'9""",204,"November 7,
+ 1999",Toronto,Ontario
+17,Dejounte Murray,Point Guard and Shooting Guard    ,Right,8,"6'5""",180,"September 19,
+ 1996",Seattle,Washington
+18,Luke Kornet,Center    ,Right,8,"7'2""",250,"July 15,
+ 1995",Lantana,Texas
+19,Austin Reaves,Shooting Guard    ,Right,4,"6'5""",206,"May 29,
+ 1998",Reaves,Arkansas
+20,Terry Rozier,Point Guard and Shooting Guard    ,Right,10,"6'1""",190,"March 17,
+ 1994",Youngstown,Ohio
+21,Alperen ÅengÃ¼n,Center    ,Right,4,"6'11""",235,"July 25,
+ 2002",Giresun,Turkey
+22,Devonte' Graham,Point Guard    ,Right,6,"6'1""",195,"February 22,
+ 1995",Raleigh,North Carolina
+23,Jeff Green,"Power Forward, Small Forward, and Center    ",Right,17,"6'8""",235,"August 28,
+ 1986",Cheverly,Maryland
+24,Kostas Antetokounmpo,Power Forward and Small Forward    ,Right,3,"6'10""",200,"November 20,
+ 1997",Athens,Greece
+25,Rudy Gobert,Center    ,Right,12,"7'1""",258,"June 26,
+ 1992",Saint,France
+26,Jordan Nwora,Small Forward    ,Right,4,"6'8""",225,"September 9,
+ 1998",Buffalo,New York
+27,Tyler Herro,Shooting Guard    ,Right,6,"6'5""",195,"January 20,
+ 2000",Milwaukee,Wisconsin
+28,LeBron James,"Small Forward, Power Forward, Point Guard, Center, and Shooting Guard    ",Right,22,"6'9""",250,"December 30,
+ 1984",Buckets,Ohio
+29,Alex Caruso,Point Guard and Shooting Guard    ,Right,8,"6'5""",186,"February 28,
+ 1994",College,Texas
+30,Fred VanVleet,Point Guard and Shooting Guard    ,Right,9,"6'0""",197,"February 25,
+ 1994",Rockford,Illinois
+31,Talen Horton-Tucker,Shooting Guard and Point Guard    ,Right,6,"6'4""",234,"November 25,
+ 2000",Chicago,Illinois
+32,Vlatko ÄanÄar,Power Forward    ,Right,5,"6'8""",236,"April 10,
+ 1997",Koper,Slovenia
+33,Zach LaVine,"Shooting Guard, Small Forward, and Point Guard    ",Right,11,"6'5""",200,"March 10,
+ 1995",Renton,Washington
+34,Branden Carlson,Center    ,Right,1,"7'0""",220,"June 14,
+ 1999",South,Utah
+35,Saddiq Bey,Small Forward    ,Right,4,"6'7""",215,"April 9,
+ 1999",Charlotte,North Carolina
+36,Franz Wagner,Small Forward    ,Right,4,"6'10""",225,"August 27,
+ 2001",Berlin,Germany
+37,Ivica Zubac,Center    ,Right,9,"7'0""",240,"March 18,
+ 1997",Mostar,Bosnia and Herzegovina
+38,Al Horford,Center    ,Right,18,"6'9""",240,"June 3,
+ 1986",Puerto,Dominican Republic
+39,Buddy Hield,Shooting Guard and Small Forward    ,Right,9,"6'4""",220,"December 17,
+ 1992",Freeport,Bahamas
+40,Lauri Markkanen,Power Forward and Small Forward    ,Right,8,"7'0""",240,"May 22,
+ 1997",Vantaa,Finland
+41,Sam Merrill,Shooting Guard    ,Right,5,"6'4""",205,"May 15,
+ 1996",Salt,Utah
+42,Shaedon Sharpe,Shooting Guard    ,Right,3,"6'6""",200,"May 30,
+ 2003",Sharp,Ontario
+43,Kevin Durant,"Small Forward, Power Forward, and Shooting Guard    ",Right,17,"6'11""",240,"September 29,
+ 1988",Durant,District of Columbia
+44,Derrick Rose,Point Guard    ,Right,15,"6'3""",200,"October 4,
+ 1988",Chicago,Illinois
+45,Chet Holmgren,Center and Power Forward    ,Right,2,"7'1""",213,"May 1,
+ 2002",Minneapolis,Minnesota
+46,Victor Wembanyama,Center and Power Forward    ,Right,2,"7'3""",235,"January 4,
+ 2004",Le,France
+47,Dion Waiters,Shooting Guard    ,Right,8,"6'3""",215,"December 10,
+ 1991",Philadelphia,Pennsylvania
+48,Montrezl Harrell,Center and Power Forward    ,Right,8,"6'7""",240,"January 26,
+ 1994",Tarboro,North Carolina
+49,Juan Toscano-Anderson,Small Forward and Shooting Guard    ,Right,5,"6'6""",209,"April 10,
+ 1993",Oakland,California
+50,Trae Young,Point Guard    ,Right,7,"6'1""",164,"September 19,
+ 1998",Lubbock,Texas
+51,Harrison Barnes,Power Forward and Small Forward    ,Right,13,"6'8""",225,"May 30,
+ 1992",Ames,Iowa
+52,Jaden Springer,Shooting Guard and Point Guard    ,Right,4,"6'4""",204,"September 25,
+ 2002",Charlotte,North Carolina
+53,Christian Braun,Shooting Guard    ,Right,3,"6'6""",218,"April 17,
+ 2001",Burlington,Kansas
+54,Ousmane Dieng,Power Forward and Center    ,Right,3,"6'10""",222,"May 21,
+ 2003",Villeneuve,France
+55,Lamar Stevens,Power Forward and Small Forward    ,Right,5,"6'6""",230,"July 9,
+ 1997",Philadelphia,Pennsylvania
+56,Tyrese Maxey,Point Guard and Shooting Guard    ,Right,5,"6'2""",200,"November 4,
+ 2000",Dallas,Texas
+57,Aaron Gordon,Power Forward and Small Forward    ,Right,11,"6'8""",235,"September 16,
+ 1995",San,California
+58,Darius Garland,Point Guard and Shooting Guard    ,Right,6,"6'1""",192,"January 26,
+ 2000",Gary,Indiana
+59,Evan Fournier,Shooting Guard and Small Forward    ,Right,12,"6'6""",205,"October 29,
+ 1992",Saint,France
+60,Draymond Green,Power Forward and Small Forward    ,Right,13,"6'6""",230,"March 4,
+ 1990",Saginaw,Michigan
+61,Andre Iguodala,"Small Forward, Shooting Guard, and Power Forward    ",Right,19,"6'6""",215,"January 28,
+ 1984",Springfield,Illinois
+62,Tim Hardaway Jr.,Shooting Guard and Small Forward    ,Right,12,"6'5""",205,"March 16,
+ 1992",Orinda,California
+63,OG Anunoby,Small Forward and Power Forward    ,Right,8,"6'7""",232,"July 17,
+ 1997",London,United Kingdom
+64,Quinn Cook,Point Guard    ,Right,5,"6'1""",180,"March 23,
+ 1993",Washington,District of Columbia
+65,Paul George,"Small Forward, Power Forward, and Shooting Guard    ",Right,15,"6'8""",220,"May 2,
+ 1990",Palmdale,California
+66,Evan Mobley,Power Forward    ,Right,4,"6'11""",215,"June 18,
+ 2001",San,California
+67,Kevon Looney,Center and Power Forward    ,Right,10,"6'9""",222,"February 6,
+ 1996",Milwaukee,Wisconsin
+68,Moses Moody,Shooting Guard    ,Right,4,"6'5""",205,"May 31,
+ 2002",Little,Arkansas
+69,Lou Williams,Point Guard and Shooting Guard    ,Right,17,"6'2""",175,"October 27,
+ 1986",Memphis,Tennessee
+70,Rodions Kurucs,Small Forward and Power Forward    ,Right,3,"6'9""",228,"February 5,
+ 1998",Cesis,Latvia
+71,Pat Connaughton,Shooting Guard and Small Forward    ,Right,10,"6'5""",209,"January 6,
+ 1993",Connaughton,Massachusetts
+72,D.J. Wilson,Power Forward    ,Right,6,"6'10""",231,"February 19,
+ 1996",Mount,California
+73,Alex Reese,Power Forward    ,Right,1,"6'9""",245,"May 21,
+ 1999",Pelham,Alabama
+74,Zach Norvell,Shooting Guard    ,Left,1,"6'5""",206,"December 9,
+ 1997",Chicago,Illinois
+75,Adam Flagler,Shooting Guard    ,Right,2,"6'3""",195,"December 1,
+ 1999",Duluth,Georgia
+76,John Collins,Power Forward    ,Right,8,"6'9""",235,"September 23,
+ 1997",Collins,Utah
+77,Jerami Grant,Power Forward and Small Forward    ,Right,11,"6'7""",210,"March 12,
+ 1994",Portland,Oregon
+78,Zeke Nnaji,Power Forward    ,Right,5,"6'9""",240,"January 9,
+ 2001",Hopkins,Minnesota
+79,Elijah Bryant,Shooting Guard    ,Right,1,"6'5""",210,"April 19,
+ 1995",Gwinnett,Georgia
+80,Quinndary Weatherspoon,Shooting Guard    ,Right,3,"6'3""",205,"September 10,
+ 1996",Canton,Mississippi
+81,Malcolm Brogdon,Point Guard and Shooting Guard    ,Right,9,"6'4""",229,"December 11,
+ 1992",Atlanta,Georgia
+82,Damian Lillard,Point Guard    ,Right,13,"6'2""",195,"July 15,
+ 1990",Oakland,California
+83,Avery Bradley,Shooting Guard and Point Guard    ,Right,12,"6'3""",180,"November 26,
+ 1990",Tacoma,Washington
+84,Bradley Beal,Shooting Guard    ,Right,13,"6'4""",207,"June 28,
+ 1993",St,Missouri
+85,Julius Randle,Power Forward and Center    ,Left,11,"6'9""",250,"November 29,
+ 1994",Dallas,Texas
+86,Jalen Green,Shooting Guard    ,Right,4,"6'4""",178,"February 9,
+ 2002",Green,California
+87,Malevy Leons,Small Forward    ,Right,1,"6'9""",205,"September 23,
+ 1999",IJmuiden,Netherlands
+88,Gary Trent Jr.,Shooting Guard and Small Forward    ,Right,7,"6'5""",209,"January 18,
+ 1999",Columbus,Ohio
+89,Dennis SchrÃ¶der,Point Guard and Shooting Guard    ,Right,12,"6'1""",172,"September 15,
+ 1993",Braunschweig,Germany
+90,Kyle Kuzma,Power Forward and Small Forward    ,Right,8,"6'9""",221,"July 24,
+ 1995",Flint,Michigan
+91,Klay Thompson,Shooting Guard and Small Forward    ,Right,12,"6'5""",215,"February 8,
+ 1990",Los,California
+92,Ajay Mitchell,Shooting Guard    ,Left,1,"6'5""",200,"June 25,
+ 2002",Namur,Belgium
+93,Desmond Bane,Shooting Guard    ,Right,5,"6'5""",215,"June 25,
+ 1998",Richmond,Indiana
+94,Kentavious Caldwell-Pope,Shooting Guard    ,Right,12,"6'5""",204,"February 18,
+ 1993",Thomaston,Georgia
+95,Bam Adebayo,Center and Power Forward    ,Right,8,"6'9""",255,"July 18,
+ 1997",Newark,New Jersey
+96,Chris Paul,Point Guard    ,Right,20,"6'0""",175,"May 6,
+ 1985",Winston,North Carolina
+97,Norman Powell,Shooting Guard and Small Forward    ,Right,10,"6'3""",215,"May 25,
+ 1993",Norman,California
+98,Jaylen Adams,Point Guard    ,Right,3,"6'0""",225,"May 4,
+ 1996",Adams,Maryland
+99,Jaylen Brown,Small Forward and Shooting Guard    ,Right,9,"6'6""",223,"October 24,
+ 1996",Marietta,Georgia
+100,Anthony Edwards,Shooting Guard    ,Right,5,"6'4""",225,"August 5,
+ 2001",Atlanta,Georgia
+101,JaVale McGee,Center    ,Right,16,"7'0""",270,"January 19,
+ 1988",Flint,Michigan
+102,Jamal Murray,Point Guard and Shooting Guard    ,Right,8,"6'4""",215,"February 23,
+ 1997",Kitchener,Ontario
+103,Ish Smith,Point Guard    ,Right,14,"6'0""",175,"July 5,
+ 1988",Charlotte,North Carolina
+104,Andrew Wiggins,Small Forward and Power Forward    ,Right,11,"6'7""",197,"February 23,
+ 1995",Toronto,Ontario
+105,Svi Mykhailiuk,Small Forward    ,Right,7,"6'7""",205,"June 10,
+ 1997",Cherkasy,Ukraine
+106,Luka DonÄiÄ,Point Guard and Shooting Guard    ,Right,7,"6'6""",230,"February 28,
+ 1999",Ljubljana,Slovenia
+107,James Harden,Point Guard and Shooting Guard    ,Left,16,"6'5""",220,"August 26,
+ 1989",Los,California
+108,Donovan Mitchell,Shooting Guard and Point Guard    ,Right,8,"6'3""",215,"September 7,
+ 1996",Elmsford,New York
+109,P.J. Tucker,"Small Forward, Power Forward, and Shooting Guard    ",Right,14,"6'5""",245,"May 5,
+ 1985",Raleigh,North Carolina
+110,Domantas Sabonis,Center and Power Forward    ,Left,9,"6'10""",240,"May 3,
+ 1996",Portland,Oregon
+111,Aaron Wiggins,Shooting Guard    ,Right,4,"6'6""",200,"January 2,
+ 1999",Greensboro,North Carolina
+112,Thomas Bryant,Center    ,Right,8,"6'10""",248,"July 31,
+ 1997",Rochester,New York
+113,Spencer Dinwiddie,Point Guard and Shooting Guard    ,Right,11,"6'5""",215,"April 6,
+ 1993",Los,California
+114,Peyton Watson,Small Forward and Shooting Guard    ,Right,3,"6'8""",200,"September 11,
+ 2002",Beverly,California
+115,Torrey Craig,Small Forward and Power Forward    ,Right,8,"6'7""",221,"December 19,
+ 1990",Columbia,South Carolina
+116,Kyle Lowry,Point Guard    ,Right,19,"6'0""",196,"March 25,
+ 1986",Philadelphia,Pennsylvania
+117,Ja Morant,Point Guard    ,Right,6,"6'2""",174,"August 10,
+ 1999",Dalzell,South Carolina
+118,Bennedict Mathurin,Small Forward and Shooting Guard    ,Right,3,"6'6""",210,"June 19,
+ 2002",Pronunciation,Quebec
+119,Coby White,Point Guard and Shooting Guard    ,Right,6,"6'5""",195,"February 16,
+ 2000",Goldsboro,North Carolina
+120,Jaren Jackson Jr.,Center and Power Forward    ,Right,7,"6'10""",242,"September 15,
+ 1999",Jackson,New Jersey
+121,Kyrie Irving,Point Guard and Shooting Guard    ,Right,14,"6'2""",195,"March 23,
+ 1992",Melbourne,Australia
+122,Bryn Forbes,Shooting Guard    ,Right,7,"6'2""",205,"July 23,
+ 1993",Lansing,Michigan
+123,Devontae Cacok,Power Forward and Center    ,Right,3,"6'7""",240,"October 8,
+ 1996",Cacok,Illinois
+124,Damion Lee,Shooting Guard    ,Right,7,"6'5""",210,"October 21,
+ 1992",Baltimore,Maryland
+125,Collin Sexton,Shooting Guard and Point Guard    ,Right,7,"6'3""",190,"January 4,
+ 1999",Sexton,Georgia
+126,Thanasis Antetokounmpo,Small Forward and Power Forward    ,Right,6,"6'7""",219,"July 18,
+ 1992",Athens,Greece
+127,Jrue Holiday,Point Guard and Shooting Guard    ,Right,16,"6'4""",205,"June 12,
+ 1990",Chatsworth,California
+128,Xavier Tillman Sr.,Center and Power Forward    ,Right,5,"6'8""",245,"January 12,
+ 1999",Grand,Michigan
+129,Dillon Brooks,Small Forward and Shooting Guard    ,Right,8,"6'6""",225,"January 22,
+ 1996",Mississauga,Ontario
+130,Jimmy Butler,"Small Forward, Shooting Guard, and Power Forward    ",Right,14,"6'7""",230,"September 14,
+ 1989",Houston,Texas
+131,Kenrich Williams,Power Forward and Small Forward    ,Right,7,"6'7""",210,"December 2,
+ 1994",Waco,Texas
+132,Bruce Brown,"Point Guard, Small Forward, and Shooting Guard    ",Right,7,"6'4""",202,"August 15,
+ 1996",Boston,Massachusetts
+133,Oshae Brissett,Small Forward and Power Forward    ,Right,6,"6'7""",210,"June 20,
+ 1998",Toronto,Ontario
+134,Jordan Clarkson,Shooting Guard and Point Guard    ,Right,11,"6'3""",194,"June 7,
+ 1992",Tampa,Florida
+135,Jaylin Williams,Center and Power Forward    ,Right,3,"6'8""",250,"June 29,
+ 2002",Williams,Arkansas
+136,Anfernee Simons,Shooting Guard    ,Right,7,"6'3""",181,"June 8,
+ 1999",Longwood,Florida
+137,T.J. Warren,Small Forward and Power Forward    ,Right,9,"6'8""",220,"September 5,
+ 1993",Durham,North Carolina
+138,Cam Thomas,Shooting Guard    ,Right,4,"6'4""",210,"October 13,
+ 2001",Yokosuka,Japan
+139,Jayson Tatum,Small Forward and Power Forward    ,Right,8,"6'8""",210,"March 3,
+ 1998",St,Missouri
+140,Giannis Antetokounmpo,"Power Forward, Small Forward, Point Guard, and Shooting Guard    ",Right,12,"6'11""",242,"December 6,
+ 1994",Athens,Greece
+141,Chris Chiozza,Point Guard    ,Right,4,"5'11""",175,"November 21,
+ 1995",Memphis,Tennessee
+142,Justin Jackson,Small Forward and Power Forward    ,Right,7,"6'8""",220,"March 28,
+ 1995",Jackson,Texas
+143,Isaiah Hartenstein,Center and Power Forward    ,Left,7,"7'0""",255,"May 5,
+ 1998",Pronunciation,Oregon
+144,Donte DiVincenzo,Shooting Guard    ,Right,7,"6'4""",203,"January 31,
+ 1997",Newark,Delaware
+145,Bojan BogdanoviÄ,Small Forward and Power Forward    ,Right,10,"6'7""",226,"April 18,
+ 1989",Mostar,Bosnia and Herzegovina
+146,Joel Embiid,Center    ,Right,9,"7'0""",280,"March 16,
+ 1994",Yaounde,Cameroon
+147,Jonas ValanÄiÅ«nas,Center    ,Right,13,"6'11""",265,"May 6,
+ 1992",Utena,Lithuania
+148,Mamadi Diakite,Power Forward and Center    ,Right,4,"6'9""",228,"January 21,
+ 1997",Conakry,Guinea
+149,Miles Bridges,Small Forward and Power Forward    ,Left,6,"6'7""",225,"March 21,
+ 1998",Flint,Michigan
+150,Luguentz Dort,Small Forward and Shooting Guard    ,Right,6,"6'4""",220,"April 19,
+ 1999",Montreal,Quebec
+151,Pascal Siakam,Power Forward    ,Right,9,"6'8""",230,"April 2,
+ 1994",Douala,Cameroon
+152,DeAndre Jordan,Center    ,Left,17,"6'11""",265,"July 21,
+ 1988",Houston,Texas
+153,Derrick White,Shooting Guard and Point Guard    ,Right,8,"6'4""",190,"July 2,
+ 1994",Parker,Colorado
+154,Stephen Curry,Point Guard    ,Right,16,"6'2""",185,"March 14,
+ 1988",Akron,Ohio
+155,Mikal Bridges,Small Forward and Shooting Guard    ,Right,7,"6'6""",209,"August 30,
+ 1996",Philadelphia,Pennsylvania
+156,Danny Green,Shooting Guard and Small Forward    ,Right,15,"6'6""",215,"June 22,
+ 1987",North,New York
+157,D'Angelo Russell,Point Guard    ,Left,10,"6'3""",193,"February 23,
+ 1996",Louisville,Kentucky
+158,Dwight Howard,Center and Power Forward    ,Right,18,"6'10""",265,"December 8,
+ 1985",Atlanta,Georgia
+159,CJ McCollum,Shooting Guard and Point Guard    ,Right,12,"6'3""",190,"September 19,
+ 1991",Canton,Ohio
+160,Bogdan BogdanoviÄ,Shooting Guard    ,Right,8,"6'5""",220,"August 18,
+ 1992",Belgrade,Serbia
+161,Ben Simmons,Point Guard    ,Left,7,"6'10""",240,"July 20,
+ 1996",David,Australia
+162,LaMelo Ball,Point Guard    ,Right,5,"6'7""",180,"August 22,
+ 2001",Anaheim,California
+163,Kemba Walker,Point Guard    ,Right,12,"6'0""",184,"May 8,
+ 1990",The,New York
+164,Alex Ducas,Shooting Guard    ,Right,1,"6'6""",222,"December 11,
+ 2000",Geraldton,Australia
+165,Malik Beasley,Shooting Guard    ,Right,9,"6'4""",187,"November 26,
+ 1996",Atlanta,Georgia
+166,Paolo Banchero,Power Forward    ,Right,3,"6'10""",250,"November 12,
+ 2002",Seattle,Washington
+167,Brandon Ingram,Small Forward and Power Forward    ,Right,9,"6'8""",190,"September 2,
+ 1997",Kinston,North Carolina
+168,Jeff Dowtin Jr.,Point Guard    ,Right,4,"6'3""",185,"May 10,
+ 1997",Jr,Maryland
+169,Nikola VuÄeviÄ,Center    ,Right,14,"6'10""",260,"October 24,
+ 1990",Morges,Switzerland
+170,RJ Barrett,Shooting Guard and Small Forward    ,Left,6,"6'6""",214,"June 14,
+ 2000",Toronto,Ontario
+171,Anthony Davis,Center and Power Forward    ,Right,13,"6'10""",253,"March 11,
+ 1993",Chicago,Illinois
+172,DeMar DeRozan,"Shooting Guard, Small Forward, and Power Forward    ",Right,16,"6'6""",220,"August 7,
+ 1989",Compton,California
+173,Jared Dudley,"Power Forward, Small Forward, and Shooting Guard    ",Right,14,"6'6""",237,"July 10,
+ 1985",San,California
+174,Kawhi Leonard,Small Forward    ,Right,13,"6'7""",225,"June 29,
+ 1991",Los,California
+175,Nemanja Bjelica,Power Forward and Center    ,Right,7,"6'10""",234,"May 9,
+ 1988",Belgrade,Serbia
+176,J.R. Smith,Shooting Guard and Small Forward    ,Right,16,"6'6""",225,"September 9,
+ 1985",Freehold,New Jersey
+177,Jordan Poole,Shooting Guard and Point Guard    ,Right,6,"6'4""",194,"June 19,
+ 1999",Milwaukee,Wisconsin
+178,Michael Porter Jr.,Small Forward    ,Right,6,"6'10""",218,"June 29,
+ 1998",Indianapolis,Indiana
+179,Cade Cunningham,Point Guard and Shooting Guard    ,Right,4,"6'6""",220,"September 25,
+ 2001",Arlington,Texas
+180,Reggie Jackson,Point Guard and Shooting Guard    ,Right,14,"6'2""",208,"April 16,
+ 1990",Pordenone,Italy
+181,Davon Reed,Shooting Guard    ,Right,4,"6'5""",208,"June 11,
+ 1995",Princeton,New Jersey
+182,Dillon Jones,Small Forward    ,Right,1,"6'5""",240,"October 29,
+ 2001",Columbia,South Carolina
+183,Jonathan Kuminga,Power Forward and Small Forward    ,Right,4,"6'8""",210,"October 6,
+ 2002",Goma,Democratic Republic of the Congo
+184,D.J. Augustin,Point Guard    ,Right,14,"5'11""",183,"November 10,
+ 1987",Pronunciation,Louisiana
+185,Drew Peterson,Power Forward    ,Right,2,"6'9""",205,"November 9,
+ 1999",Libertyville,Illinois
+186,De'Aaron Fox,Point Guard    ,Left,8,"6'3""",185,"December 20,
+ 1997",New,Louisiana
+187,Troy Daniels,Shooting Guard    ,Right,7,"6'4""",200,"July 15,
+ 1991",Roanoke,Virginia
+188,Gary Payton II,"Shooting Guard, Point Guard, and Small Forward    ",Left,9,"6'2""",190,"December 1,
+ 1992",Seattle,Washington
+189,Otto Porter Jr.,Small Forward and Power Forward    ,Right,11,"6'8""",198,"June 3,
+ 1993",St,Missouri
+190,Nikola JokiÄ,Center    ,Right,10,"6'11""",284,"February 19,
+ 1995",Sombor,Serbia
+191,Cason Wallace,Shooting Guard    ,Right,2,"6'4""",205,"November 7,
+ 2003",Dallas,Texas
+192,Sam Hauser,Small Forward and Power Forward    ,Right,4,"6'8""",215,"December 8,
+ 1997",Green,Wisconsin
+193,Keldon Johnson,Small Forward    ,Right,6,"6'5""",220,"October 11,
+ 1999",Chesterfield,Virginia
+194,Brook Lopez,Center    ,Right,17,"7'1""",282,"April 1,
+ 1988",North,California
+195,Jalen Brunson,Point Guard and Shooting Guard    ,Left,7,"6'2""",190,"August 31,
+ 1996",Brunson,New Jersey
+196,Payton Pritchard,Point Guard and Shooting Guard    ,Right,5,"6'1""",195,"January 28,
+ 1998",Tualatin,Oregon
+197,Tyrese Haliburton,Point Guard and Shooting Guard    ,Right,5,"6'5""",185,"February 29,
+ 2000",Oshkosh,Wisconsin
+198,Jordan Walsh,Small Forward and Power Forward    ,Right,2,"6'7""",205,"March 3,
+ 2004",DeSoto,Texas
+199,Devin Booker,Shooting Guard and Point Guard    ,Right,10,"6'6""",206,"October 30,
+ 1996",Booker,Michigan
+200,Isaiah Joe,Shooting Guard    ,Right,5,"6'5""",181,"July 2,
+ 1999",Fort,Arkansas
+201,Danilo Gallinari,"Small Forward, Power Forward, and Shooting Guard    ",Right,14,"6'10""",233,"August 8,
+ 1988",Sant,Italy
+202,Rajon Rondo,Point Guard    ,Right,16,"6'1""",180,"February 22,
+ 1986",Louisville,Kentucky
+203,Tobias Harris,Power Forward and Small Forward    ,Right,14,"6'8""",226,"July 15,
+ 1992",Islip,New York
